@@ -1,11 +1,11 @@
-# Portfolio
-<h1 allign="center"> Portfolio </h1>
+<h1 align="center"> Portfolio </h1>
 ---
 
 ## Current Project
 
-[K-Means Clustering on Iris Dataset](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb)
-[![](https://img.shields.io/badge/Python-Run_in_Colab-EE4C2C?logo=Python)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb)
+### K-Means Clustering on Iris Dataset
+[![](https://img.shields.io/badge/Run_in_Colab-#3776AB?logo=Python)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb) 
+[![](https://img.shields.io/badge/View_in_GitHub-#3776AB?logo=GitHub)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb)
 <img src="images/project1.png?raw=true"/>
 
 ---

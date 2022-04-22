@@ -4,7 +4,7 @@
 ## Current Project
 
 ### K-Means Clustering on Iris Dataset
-[![](https://img.shields.io/badge/Python-Run_in_Colab-EE4C2C?logo=Python)](https://colab.research.google.com/drive/1mL94ksbf27LqeJf5X_cX95np5yA4qG-H?usp=sharing) 
+[![](https://img.shields.io/badge/Colab-Run_in_Colab-EE4C2C?logo=Google Colab)](https://colab.research.google.com/drive/1mL94ksbf27LqeJf5X_cX95np5yA4qG-H?usp=sharing) 
 [![](https://img.shields.io/badge/Github-View_in_GitHub-3776AB?logo=GitHub)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb)
 <p align="justify"> K-means clustering merupakan salah satu contoh algoritma unsupervised learning yang berusaha mempartisi data yang ada ke dalam bentuk satu atau lebih cluster. Algoritma ini mempartisi data ke dalam cluster sehingga data yang memiliki karakteristik yang sama dikelompokkan ke dalam satu cluster yang sama dan data yang mempunyai karateristik yang berbeda di kelompokan ke dalam cluster yang lain. Pada project ini, saya mencoba menggunakan K-Means Clustering untuk dataset iris. </p>
 <img src="images/project1.png?raw=true"/>

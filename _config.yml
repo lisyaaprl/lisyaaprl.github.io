@@ -1,12 +1,18 @@
 title: Lisya Apriliani # your name (or website title) here
+
 logo: "/images/sahoy.png?raw=true" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/lisya-apriliani/">LinkedIn</a> |
+  <a href="https://github.com/lisyaaprl">GitHub</a>
+  </p>
   <br><br>
   <p align="justify">
   Currently studying computer science at Diponegoro University and joining independent studies at Zenius with learning path data warehousing, analysis, and visualization for business insights.
   </p>
   <br><br>
-  <a href="https://www.linkedin.com/in/lisya-apriliani/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

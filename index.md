@@ -10,8 +10,7 @@
 
 ---
 [Prinicipal Component Analysis Application on Kidney Disease Dataset](/project/PCA_Dataset_Kidney_Disease.ipynb)
-Principal Component Analysis (PCA) adalah teknik yang digunakan untuk menyederhanakan suatu data dengan cara mentransormasi linear sehingga terbentuk sistem koordinat baru dengan variansi maksimum. PCA dapat digunakan untuk mereduksi dimensi suatu data tanpa mengurangi
-karakteristik data tersebut secara signifikan. Pada project ini, saya mencoba menerapkan PCA pada dataset Kidney Disease.
+Principal Component Analysis (PCA) adalah teknik yang digunakan untuk menyederhanakan suatu data dengan cara mentransormasi linear sehingga terbentuk sistem koordinat baru dengan variansi maksimum. PCA dapat digunakan untuk mereduksi dimensi suatu data tanpa mengurangi karakteristik data tersebut secara signifikan. Pada project ini, saya mencoba menerapkan PCA pada dataset Kidney Disease.
 <img src="images/project2.png?raw=true"/>
 
 ---
@@ -22,7 +21,7 @@ karakteristik data tersebut secara signifikan. Pada project ini, saya mencoba me
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](/pdf/sample_presentation.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

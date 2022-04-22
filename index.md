@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Big Data Project 
 
-[Project 1 Title](/sample_page)
+[Data Preparation Example](https://colab.research.google.com/drive/1npaqTwrhRBqPXZdW9xhx7LhDMZEBCZzQ?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Exploration Example](https://colab.research.google.com/drive/1X6lpaGRV1hz-Cat-HPEogrKgZB5MdBZb?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Presentation](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

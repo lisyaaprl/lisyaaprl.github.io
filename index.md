@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Presentation](/pdf/sample_presentation.pdf)
+[Presentation](/pdf/Week2 - 24060119120016.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

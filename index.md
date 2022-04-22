@@ -1,19 +1,22 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Big Data Project 
+## Current Project
 
-[Data Preparation Example](https://colab.research.google.com/drive/1npaqTwrhRBqPXZdW9xhx7LhDMZEBCZzQ?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Data Exploration Example](https://colab.research.google.com/drive/1X6lpaGRV1hz-Cat-HPEogrKgZB5MdBZb?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[K-Means Clustering on Iris Dataset](/project/Clustering_Dataset_Iris.ipynb)
+[![](https://img.shields.io/badge/Python-Run_in_Colab-EE4C2C?logo=Python)](/project/Clustering_Dataset_Iris.ipynb)
+<img src="images/project1.png?raw=true"/>
 
 ---
-[Presentation](/pdf/Week2 - 24060119120016.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Prinicipal Component Analysis Application on Kidney Disease Dataset](/project/PCA_Dataset_Kidney_Disease.ipynb)
+Principal Component Analysis (PCA) adalah teknik yang digunakan untuk menyederhanakan suatu data dengan cara mentransormasi linear sehingga terbentuk sistem koordinat baru dengan variansi maksimum. PCA dapat digunakan untuk mereduksi dimensi suatu data tanpa mengurangi
+karakteristik data tersebut secara signifikan. Pada project ini, saya mencoba menerapkan PCA pada dataset Kidney Disease.
+<img src="images/project2.png?raw=true"/>
+
+---
+[Data Exploration on Dataset Marathon](/project/Exploration_Dataset_Marathon.ipynb)
+<img src="images/project3.png?raw=true"/>
 
 ---
 

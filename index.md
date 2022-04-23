@@ -27,9 +27,9 @@
 ---
 
 ## Upcoming Projects
-### - [Project 1](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
-### - [Project 2](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
-### - [Project 3](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
+### [Project 1](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
+### [Project 2](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
+### [Project 3](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
 ---
 
 

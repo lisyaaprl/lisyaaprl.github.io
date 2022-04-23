@@ -1,6 +1,6 @@
 title: Lisya Apriliani # your name (or website title) here
 
-logo: "/images/sahoy.png?raw=true" # your photo (or logo) here
+logo: <center> "/images/sahoy.png?raw=true" </center> # your photo (or logo) here
 
 description: # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">

@@ -1,6 +1,6 @@
 title: <p align="center"> Lisya Apriliani </p> # your name (or website title) here
 
-logo: <div align="center"> "/images/sahoy.png?raw=true" </div> # your photo (or logo) here
+logo: <center><img src="/images/sahoy.png"/></center> # your photo (or logo) here
 
 description: # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">

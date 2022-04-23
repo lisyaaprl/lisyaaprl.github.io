@@ -1,7 +1,8 @@
 <h1 align="center"> Portfolio </h1>
 ---
 
-## Current Project
+## Machine Learning and Big Data
+<p align="justify"> Below is a collection of assignments that I have done related to machine learning and big data. </p>
 
 ### K-Means Clustering on Iris Dataset
 [![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1mL94ksbf27LqeJf5X_cX95np5yA4qG-H?usp=sharing) 

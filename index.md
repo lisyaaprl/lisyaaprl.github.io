@@ -24,12 +24,18 @@
 <p align="justify"> Data Exploration merupakan langkah awal dalam analisis data, di mana pengguna menjelajahi kumpulan big data dengan cara yang tidak terstruktur untuk mengungkap pola awal, karakteristik, dan point of interest. Data Exploration dapat menggunakan kombinasi metode manual dan alat otomatis seperti data visualizations, charts, dan initial reports. Pada project ini, saya mencoba melakukan data exploration pada dataset marathon. </p>
 <img src="images/project3.png?raw=true"/>
 
----
+### Credit Card Fraud Detection
+[![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1HRuKn6dMID-cWiGWyMkVVcuRtFoX08my?usp=sharing) 
+[![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1y9gDAaKbUgQVpZPlFIrri4euIonfQLB4?usp=sharing)
+<p align="justify"> Fraud atau penipuan dalam transaksi kartu kredit adalah penggunaan akun yang tidak sah dan tidak diinginkan oleh orang lain selain pemilik akun tersebut. Untuk dapat menghentikan dan meminimalkan kasus penyalahgunaan dan perilaku praktik penipuan diperlukan tindakan pencegahan. Salah satu tindakan yang dapat dilakukan untuk mencegah terjadinya fraud adalah dengan melakukan deteksi penipuan yang melibatkan pemantauan aktivitas pengguna.</p>
+<img src="images/project3.png?raw=true"/>
 
+---
+<!-- 
 ## Upcoming Projects
 ### [Project 1](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
 ### [Project 2](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
-### [Project 3](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing)
+### [Project 3](https://colab.research.google.com/drive/1n38WugLUCpfnu0zgIq0tk_eAW1LWAeei?usp=sharing) -->
 ---
 
 

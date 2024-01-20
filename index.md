@@ -39,9 +39,3 @@
 <p align="justify"> Country Socioeconomic data merupakan dataset yang memuat data tentang negaranegara beserta angka terkait kondisi sosial-ekonomi dan kesehatan dari negara-negara tersebut. Tujuan dari pengolahan dataset ini adalah untuk mengkategorikan negara-negara berdasarkan beberapa faktor sosial-ekonomi dan kesehatan yang terdapat pada dataset, lalu menentukan negara mana yang perlu menjadi fokus utama dalam pembangunan. </p>
 <img src="images/clustering.png?raw=true"/>
 ---
-
-
-
-
----
-<!-- Remove above link if you don't want to attibute -->

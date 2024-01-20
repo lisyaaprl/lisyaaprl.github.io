@@ -6,14 +6,12 @@
 
 ### K-Means Clustering on Iris Dataset
 [![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1mL94ksbf27LqeJf5X_cX95np5yA4qG-H?usp=sharing) 
-[![](https://img.shields.io/badge/Github-View_in_GitHub-3776AB?logo=GitHub)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Clustering_Dataset_Iris.ipynb)
 <p align="justify"> K-means clustering merupakan salah satu contoh algoritma unsupervised learning yang berusaha mempartisi data yang ada ke dalam bentuk satu atau lebih cluster. Algoritma ini mempartisi data ke dalam cluster sehingga data yang memiliki karakteristik yang sama dikelompokkan ke dalam satu cluster yang sama dan data yang mempunyai karateristik yang berbeda di kelompokan ke dalam cluster yang lain. Pada project ini, saya mencoba menggunakan K-Means Clustering untuk dataset iris. </p>
 <img src="images/project1.png?raw=true"/>
 
 ---
 ### Prinicipal Component Analysis Application on Kidney Disease Dataset
 [![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1QDEdfUXdieEAFGMOcZnBShEOBGvoMaRm?usp=sharing) 
-[![](https://img.shields.io/badge/GitHub-View_in_GitHub-3776AB?logo=GitHub)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/PCA_Dataset_Kidney_Disease.ipynb)
 <p align="justify"> Principal Component Analysis (PCA) adalah teknik yang digunakan untuk menyederhanakan suatu data dengan cara mentransormasi linear sehingga terbentuk sistem koordinat baru dengan variansi maksimum. PCA dapat digunakan untuk mereduksi dimensi suatu data tanpa mengurangi karakteristik data tersebut secara signifikan. Pada project ini, saya mencoba menerapkan PCA pada dataset Kidney Disease. </p>
 <img src="images/project2.png?raw=true"/>
 

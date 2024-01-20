@@ -9,8 +9,7 @@ description: # your text below (remove <br> elements if you don't need line brea
   # <a href="https://www.kaggle.com/lisyaapriliani">Kaggle</a>
   </p>
   <br>
-  <p align="justify"> A Computer Science graduate who is always willing to work hard. Bringing forth a motivated attitude and a variety of powerful skills. Has a great interest in the field of organization, analysis, data processing, and application development.
-  </p>
+  <p align="justify">A Computer Science graduate who is always willing to work hard. Bringing forth a motivated attitude and a variety of powerful skills. Has a great interest in the field of organization, analysis, data processing, and application development.</p>
   <br><br>
   
 theme: jekyll-theme-minimal

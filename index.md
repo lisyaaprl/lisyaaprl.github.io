@@ -17,8 +17,7 @@
 
 ---
 ### Data Exploration on Dataset Marathon
-[![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1nEqJyygDkMe71iM_5BNtFnsWpPJBglBW?usp=sharing) 
-[![](https://img.shields.io/badge/GitHub-View_in_GitHub-3776AB?logo=GitHub)](https://github.com/lisyaaprl/lisyaaprl.github.io/blob/main/project/Exploration_Dataset_Marathon.ipynb)
+[![](https://img.shields.io/badge/Colab-Run_in_Colab-F9AB00?logo=Google Colab)](https://colab.research.google.com/drive/1nEqJyygDkMe71iM_5BNtFnsWpPJBglBW?usp=sharing)
 <p align="justify"> Data Exploration merupakan langkah awal dalam analisis data, di mana pengguna menjelajahi kumpulan big data dengan cara yang tidak terstruktur untuk mengungkap pola awal, karakteristik, dan point of interest. Data Exploration dapat menggunakan kombinasi metode manual dan alat otomatis seperti data visualizations, charts, dan initial reports. Pada project ini, saya mencoba melakukan data exploration pada dataset marathon. </p>
 <img src="images/project3.png?raw=true"/>
 
